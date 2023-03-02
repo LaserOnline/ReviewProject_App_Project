@@ -1,7 +1,7 @@
 # Application Flutter Framework
 # สมาชิก
 * เก้าเจียม วิกรานต์นนท์ 62017683
-* ![317234842_900027104491338_2882201456526702534_n](https://user-images.githubusercontent.com/51033703/222348747-733cf566-6441-4f63-aca3-2bc0b8547186.jpg)
+
 ---
 # App User
 ![v1](https://user-images.githubusercontent.com/51033703/221222444-c342a22e-3043-4d39-8ec6-d9f2db695bc2.png)
