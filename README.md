@@ -7,8 +7,10 @@
 * รัชนี ทวียศ 62014629 หน้าที่รับผิดชอบ รายงาน
 <p align="center">
     <img width="200" src="https://user-images.githubusercontent.com/51033703/222351121-4ce9a11a-4aa9-4b7d-9462-18747536a972.jpg"">
-</p>                                                                                                                                
-* ตูน UX/UI                                                                                                                                 
+</p>      
+
+* ตูน UX/UI         
+                                                                                                                       
 ---
 # App User
 ![v1](https://user-images.githubusercontent.com/51033703/221222444-c342a22e-3043-4d39-8ec6-d9f2db695bc2.png)
