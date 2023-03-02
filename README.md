@@ -1,6 +1,6 @@
 # Application Flutter Framework
 # สมาชิก
-* เก้าเจียม วิกรานต์นนท์ 62017683 Fontend Backend Infrastructure
+* เก้าเจียม วิกรานต์นนท์ 62017683 หน้าที่รับผิดชอบ Fontend Backend Infrastructure
 * 
 
 ---
