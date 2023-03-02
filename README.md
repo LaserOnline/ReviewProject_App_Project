@@ -9,7 +9,7 @@
     <img width="200" src="https://user-images.githubusercontent.com/51033703/222351121-4ce9a11a-4aa9-4b7d-9462-18747536a972.jpg"">
 </p>      
 
-* ตูน หน้าที่รับผิดชอบ UX/UI         
+* ตูน หน้าที่รับผิดชอบ Fontend UX/UI         
                                                                                                                        
 ---
 # App User
