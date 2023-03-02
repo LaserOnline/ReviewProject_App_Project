@@ -4,9 +4,9 @@
 <p align="center">
     <img width="200" src="https://user-images.githubusercontent.com/51033703/222348747-733cf566-6441-4f63-aca3-2bc0b8547186.jpg"">
 </p>
-* เก้าเจียม วิกรานต์นนท์ 62017683 หน้าที่รับผิดชอบ Fontend Backend Infrastructure
+* รัชนี ทวียศ 62014629 หน้าที่รับผิดชอบ รายงาน
 <p align="center">
-    <img width="200" src="https://user-images.githubusercontent.com/51033703/222348747-733cf566-6441-4f63-aca3-2bc0b8547186.jpg"">
+    <img width="200" src="https://user-images.githubusercontent.com/51033703/222351121-4ce9a11a-4aa9-4b7d-9462-18747536a972.jpg"">
 </p>                                                                                                                                
                                                                                                                                  
 ---
