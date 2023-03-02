@@ -2,7 +2,7 @@
 # สมาชิก
 * เก้าเจียม วิกรานต์นนท์ 62017683 หน้าที่รับผิดชอบ Fontend Backend Infrastructure
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg"">
+    <img width="200" src="https://user-images.githubusercontent.com/51033703/222348747-733cf566-6441-4f63-aca3-2bc0b8547186.jpg"">
 </p>
 
 ---
