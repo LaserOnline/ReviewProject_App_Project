@@ -4,7 +4,11 @@
 <p align="center">
     <img width="200" src="https://user-images.githubusercontent.com/51033703/222348747-733cf566-6441-4f63-aca3-2bc0b8547186.jpg"">
 </p>
-
+* เก้าเจียม วิกรานต์นนท์ 62017683 หน้าที่รับผิดชอบ Fontend Backend Infrastructure
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/51033703/222348747-733cf566-6441-4f63-aca3-2bc0b8547186.jpg"">
+</p>                                                                                                                                
+                                                                                                                                 
 ---
 # App User
 ![v1](https://user-images.githubusercontent.com/51033703/221222444-c342a22e-3043-4d39-8ec6-d9f2db695bc2.png)
