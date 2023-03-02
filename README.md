@@ -1,6 +1,7 @@
 # Application Flutter Framework
 # สมาชิก
-* เก้าเจียม วิกรานต์นนท์ 62017683
+* เก้าเจียม วิกรานต์นนท์ 62017683 Fontend Backend Infrastructure
+* 
 
 ---
 # App User
