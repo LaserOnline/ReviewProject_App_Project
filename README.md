@@ -10,7 +10,10 @@
 </p>      
 
 * ตูน หน้าที่รับผิดชอบ Fontend UX/UI         
-                                                                                                                       
+<p align="center">
+    <img width="200" src="https://cdn.pixabay.com/photo/2016/04/01/09/29/cartoon-1299393_960_720.png"">
+</p> 
+                                                                                                                                 
 ---
 # App User
 ![v1](https://user-images.githubusercontent.com/51033703/221222444-c342a22e-3043-4d39-8ec6-d9f2db695bc2.png)
