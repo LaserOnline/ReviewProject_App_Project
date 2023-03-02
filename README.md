@@ -9,7 +9,7 @@
     <img width="200" src="https://user-images.githubusercontent.com/51033703/222351121-4ce9a11a-4aa9-4b7d-9462-18747536a972.jpg"">
 </p>      
 
-* ตูน หน้าที่รับผิดชอบ Fontend UX/UI         
+* อรปรียา บุญมา หน้าที่รับผิดชอบ Fontend UX/UI         
 <p align="center">
     <img width="200" src="https://cdn.pixabay.com/photo/2016/04/01/09/29/cartoon-1299393_960_720.png"">
 </p> 
