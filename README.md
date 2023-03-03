@@ -11,7 +11,7 @@
 
 * อรปรียา บุญมา หน้าที่รับผิดชอบ Fontend UX/UI         
 <p align="center">
-    <img width="200" src="https://cdn.pixabay.com/photo/2016/04/01/09/29/cartoon-1299393_960_720.png"">
+    <img width="200" src="https://user-images.githubusercontent.com/51033703/222658033-ddd91a4f-23bd-4088-8d69-56f6303b81ab.jpg"">
 </p> 
                                                                                                                                  
 ---
